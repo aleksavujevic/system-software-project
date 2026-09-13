@@ -1,0 +1,14 @@
+build/
+
+assembler
+linker
+emulator
+
+*.o
+*.hex
+*.txt
+
+.vscode/
+.idea/
+
+.DS_Store
